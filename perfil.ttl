@@ -16,7 +16,7 @@
    foaf:primaryTopic <#jl> ;
    dc:creator <#jl> .
 
-<#ah> a foaf:Person ;
+<#jl> a foaf:Person ;
    rdfs:label "Jing Luo" ;
    rdfs:comment "Student of the DCC"@es , "Estudiante del DCC"@es ;
    foaf:name "Jing Luo" ;
