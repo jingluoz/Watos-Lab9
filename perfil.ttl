@@ -1,6 +1,6 @@
 @base <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl> .
 
-@prefix ah: <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#> .
+@prefix jl: <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -13,8 +13,8 @@
 <> a foaf:Document ;
    dc:date "2022-10-19"^^xsd:date ;
    dc:title "Jing's FOAF Profile"@en ;
-   foaf:primaryTopic <#ah> ;
-   dc:creator <#ah> .
+   foaf:primaryTopic <#jl> ;
+   dc:creator <#jl> .
 
 <#ah> a foaf:Person ;
    rdfs:label "Jing Luo" ;
