@@ -24,7 +24,7 @@
    foaf:familyName "Luo" ;
    foaf:birthday 23 ;
    foaf:img <https://ucampus.uchile.cl/d/r/usuario/82/82a26e2d75d3b2c9451bb06a8b8edc34/perfil/767ae3a0dcd1514e8bd37a29270315c8_200.jpg> ;
-   foaf:knows <anakena.dcc.uchile.cl/~pberrios/Watos/foaf.ttl#pb> ,
+   foaf:knows <http://anakena.dcc.uchile.cl/~pberrios/Watos/foaf.ttl#pb> ,
               <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ,
               <https://raw.githubusercontent.com/EricContrerasP/PerfilWatos/main/ec.ttl#ee> ,
               <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa>;
