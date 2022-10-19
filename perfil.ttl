@@ -28,10 +28,12 @@
               <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ,
               <https://raw.githubusercontent.com/EricContrerasP/PerfilWatos/main/ec.ttl#ee> ,
               <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa>;
-   foaf:interest dbr:Anime , dbr:Big_data , dbr:Hurling ; 
-   social:hasEnemy <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa> ;
+   foaf:interest dbr:Semantic_Web, dbr:Anime , dbr:Big_data , dbr:Hurling ; 
+   social:hasEnemy <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa> ,
+                   <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab>;
    social:likesMovie dbr:Avengers_Infinity_War;
    social:hasSpiritAnimal dbr:Cat ;
    social:hasFavouritePlatonicSolid dbr:Cube ;
    foaf:myersBriggs "INTP" ;
-   foaf:homepage <https://www.linkedin.com/in/jing-luo-ba460811b/> .
+   foaf:homepage <https://www.linkedin.com/in/jing-luo-ba460811b/> ;
+   foaf:currentProject "FormBuilder".
