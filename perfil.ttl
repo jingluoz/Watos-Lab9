@@ -31,7 +31,7 @@
    foaf:interest dbr:Semantic_Web, dbr:Anime , dbr:Big_data , dbr:Hurling ; 
    social:hasEnemy <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa> ,
                    <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab>;
-   social:likesMovie dbr:Avengers_Infinity_War;
+   social:likesMovie dbr:Avengers:_Infinity_War;
    social:hasSpiritAnimal dbr:Cat ;
    social:hasFavouritePlatonicSolid dbr:Cube ;
    foaf:myersBriggs "INTP" ;
