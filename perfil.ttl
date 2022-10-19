@@ -31,4 +31,4 @@
    social:hasSpiritAnimal dbr:Cat ;
    social:hasFavouritePlatonicSolid dbr:Cube ;
    foaf:myersBriggs "INTP" ;
-   foaf:linkedinProfile <https://www.linkedin.com/in/jing-luo-ba460811b/> .
+   foaf:homepage <https://www.linkedin.com/in/jing-luo-ba460811b/> .
